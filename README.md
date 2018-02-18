@@ -1,2 +1,6 @@
 # git_demo
-This is an example show how do I learn git command
+This is an example show how do I learn git command in the key of c 
+
+```
+
+```
